@@ -1,0 +1,44 @@
+body 
+{
+  margin: 0;
+}
+
+.HERO 
+{
+  background: url(https://i0.wp.com/picjumbo.com/wp-content/uploads/red-and-blue-pillars-wallpaper-abstract-background-free-image.jpeg?w=600&quality=80);
+  background-size: cover;
+  display: flex;
+  height: 700px;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.herocontent 
+{
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.a 
+{
+  background-color: rgb(2, 46, 46);
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.b 
+{
+  color: aliceblue;
+  text-align: center;
+}
+
+.c 
+{
+  background-color: rgb(236, 252, 253);
+  color: black;
+  padding: 8px;
+  border-radius: 8px;
+  margin-left: 40%;
+}

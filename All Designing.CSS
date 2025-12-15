@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+}
+
+.HERO {
+  background: url(https://i.pinimg.com/736x/49/f7/b6/49f7b6113ecaca559d74ab503ccf11dd.jpg);
+  background-size: cover;
+  height: 800px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+}
+
+.herocontent {
+  font-size: 22px;
+  margin-bottom: 30%;
+  margin-top: 20%;
+  text-align: center;
+}
+
+.a {
+  background-color: rgb(236, 232, 232);
+  width: 500px;
+  border-radius: 10px;
+}
+
+.b {
+  color: white;
+  font-size: 22px;
+}
+
+.c {
+  background-color: white;
+  width: 100px;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.d {
+  background-color: yellow;
+}
+
+.e {
+  background-color: lightgreen;
+}
